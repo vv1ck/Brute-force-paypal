@@ -7,6 +7,7 @@ Brute Force paypal :
 - Supports all devices: ☑️
 - Combo Type: email:pass
 - saved in the Hacked-paypal.txt
+-
 Run it on Linux:
 - jsoeiid
 - skekejj
