@@ -14,4 +14,4 @@ Run it on Linux:
 -
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a>
 -
-See
+See.
