@@ -9,5 +9,9 @@ Brute Force paypal :
 - saved in the Hacked-paypal.txt
 -
 Run it on Linux:
-- jsoeiid
-- skekejj
+- https://github.com/vv1ck/Brute-force-paypal.git
+- python3 Brute-paypal
+-
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a>
+-
+See
